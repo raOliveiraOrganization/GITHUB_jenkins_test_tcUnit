@@ -24,5 +24,3 @@ TcUnit framework.
 Documentation and examples for TcUnit is available at [www.tcunit.org](https://www.tcunit.org)
 
 // adding some tests
-// adding some tests
-// adding some tests
